@@ -12,8 +12,8 @@ Este repositório contém um **Sistema de Estacionamento de Veículos** desenvol
 - Persistência de dados utilizando arquivos **TXT**
 
 
-## 💻 Contribuidores
-- [Alan Lacerda](https://github.com/alanrantes)  
-- [André Ravacini](https://github.com/AndreRavacini)
+## 💻 Desenvolvedores
+- [Alan Lacerda Arantes](https://github.com/alanrantes)  
+- [André Lucas Ravacini](https://github.com/AndreRavacini)
 
 
