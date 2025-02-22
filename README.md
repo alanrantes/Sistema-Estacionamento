@@ -9,4 +9,11 @@ Este repositório contém um **Sistema de Estacionamento de Veículos** desenvol
 ## 📌 Funcionalidades
 - Registro da **entrada** de veículos  
 - Registro da **saída** de veículos  
-- Persistência de dados utilizando arquivos **TXT**  
+- Persistência de dados utilizando arquivos **TXT**
+
+
+## 💻 Contribuidores
+- [Alan Lacerda](https://github.com/alanrantes)  
+- [André Ravacini](https://github.com/AndreRavacini)
+
+
